@@ -1,0 +1,2 @@
+# TF_GradientTape
+tensorflow梯度带讲解，以及附上了numpy实现的全连接神经网络的训练
